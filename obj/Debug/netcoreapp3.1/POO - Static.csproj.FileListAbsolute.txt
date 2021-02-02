@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\POO - Static\bin\Debug\netcoreapp3.1\POO - Static.exe
+C:\Users\FIC\Desktop\POO - Static\bin\Debug\netcoreapp3.1\POO - Static.deps.json
+C:\Users\FIC\Desktop\POO - Static\bin\Debug\netcoreapp3.1\POO - Static.runtimeconfig.json
+C:\Users\FIC\Desktop\POO - Static\bin\Debug\netcoreapp3.1\POO - Static.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\POO - Static\bin\Debug\netcoreapp3.1\POO - Static.dll
+C:\Users\FIC\Desktop\POO - Static\bin\Debug\netcoreapp3.1\POO - Static.pdb
+C:\Users\FIC\Desktop\POO - Static\obj\Debug\netcoreapp3.1\POO - Static.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\POO - Static\obj\Debug\netcoreapp3.1\POO - Static.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\POO - Static\obj\Debug\netcoreapp3.1\POO - Static.AssemblyInfo.cs
+C:\Users\FIC\Desktop\POO - Static\obj\Debug\netcoreapp3.1\POO - Static.dll
+C:\Users\FIC\Desktop\POO - Static\obj\Debug\netcoreapp3.1\POO - Static.pdb
