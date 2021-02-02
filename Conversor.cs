@@ -13,5 +13,16 @@ namespace POO___Static
             return valorDolar * cotacaoDolar;
         }
 
+        private static float cotacaoEuro = 6.54f;
+
+        public static float RealParaEuro(float valorRS){
+            return valorRS / cotacaoEuro;
+        }
+
+        public static float EuroParaReal(float valorEuro){
+            return valorEuro * cotacaoEuro;
+        }
+
+
     }
 }
